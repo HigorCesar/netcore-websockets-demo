@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.WebSockets.Demo.Server", "src\NetCore.WebSockets.Demo.Server\NetCore.WebSockets.Demo.Server.csproj", "{25F6F7FB-9416-4D80-939D-A7AACCC49195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.WebSockets.Demo.Client", "src\NetCore.WebSockets.Demo.Client\NetCore.WebSockets.Demo.Client.csproj", "{97E90E81-DF4E-4C1F-97E2-C9C42B5F0816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25F6F7FB-9416-4D80-939D-A7AACCC49195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F6F7FB-9416-4D80-939D-A7AACCC49195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F6F7FB-9416-4D80-939D-A7AACCC49195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F6F7FB-9416-4D80-939D-A7AACCC49195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97E90E81-DF4E-4C1F-97E2-C9C42B5F0816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E90E81-DF4E-4C1F-97E2-C9C42B5F0816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E90E81-DF4E-4C1F-97E2-C9C42B5F0816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E90E81-DF4E-4C1F-97E2-C9C42B5F0816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
